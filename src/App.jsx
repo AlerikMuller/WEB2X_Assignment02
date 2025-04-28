@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { HashRouter as Router } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
   return (
