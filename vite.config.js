@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/pokedex-app/',
+  base: '/WEB2X_Assignment02/',
 }) // finished
